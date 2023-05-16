@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/CustomerSite.csproj": {}
+  },
+  "projects": {
+    "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/CustomerSite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/CustomerSite.csproj",
+        "projectName": "CustomerSite",
+        "projectPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/CustomerSite.csproj",
+        "packagesPath": "/Users/sidhant.agarwal/.nuget/packages/",
+        "outputPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sidhant.agarwal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/Services.csproj": {
+                "projectPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/sidhant.agarwal/.nuget/packages/",
+        "outputPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sidhant.agarwal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/Services.csproj",
+        "packagesPath": "/Users/sidhant.agarwal/.nuget/packages/",
+        "outputPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sidhant.agarwal/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/DataAccess/DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Marketplace.SaaS.Client": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.Rest.ClientRuntime.Azure.Authentication": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

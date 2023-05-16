@@ -1,0 +1,15 @@
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/bin/Debug/net6.0/Services.deps.json
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/bin/Debug/net6.0/Services.dll
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/bin/Debug/net6.0/Services.pdb
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/bin/Debug/net6.0/DataAccess.dll
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/bin/Debug/net6.0/DataAccess.pdb
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.csproj.AssemblyReference.cache
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.AssemblyInfoInputs.cache
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.AssemblyInfo.cs
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.csproj.CoreCompileInputs.cache
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.csproj.CopyComplete
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.dll
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/refint/Services.dll
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/Services.pdb
+/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/Services/obj/Debug/net6.0/ref/Services.dll

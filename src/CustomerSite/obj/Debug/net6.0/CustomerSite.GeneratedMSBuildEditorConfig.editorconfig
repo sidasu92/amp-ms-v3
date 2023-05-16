@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Marketplace.SaaS.Accelerator.CustomerSite
+build_property.RootNamespace = Marketplace.SaaS.Accelerator.CustomerSite
+build_property.ProjectDir = /Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/ProcessMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9jZXNzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/SubscriptionDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJzY3JpcHRpb25EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/SubscriptionLogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJzY3JpcHRpb25Mb2dEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/SubscriptionQuantityDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJzY3JpcHRpb25RdWFudGl0eURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/Subscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJzY3JpcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Home/_LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fTGFuZGluZ1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sidhant.agarwal/Documents/Azure/Commercial-Marketplace-SaaS-Accelerator/src/CustomerSite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
